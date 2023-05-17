@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-backup {
+  text-align: center;
+  font-size: 14px;
+}
