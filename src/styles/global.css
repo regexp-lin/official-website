@@ -6,3 +6,16 @@
   text-align: center;
   font-size: 14px;
 }
+
+.about-us-text {
+  width: 500px;
+  margin-top: 10px;
+}
+
+.about-us-image {
+  margin-left: 136px;
+}
+
+.global-header {
+  margin-top: 10px;
+}

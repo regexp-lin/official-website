@@ -13,13 +13,13 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           {/* 左侧 logo */}
-          <div className="flex-shrink-0 flex items-center">
+          <div className="flex-shrink-0 flex items-center global-header">
             <IwsLink href="/">
               <Image
                 className="block h-8 w-auto cursor-pointer"
-                height={43.2}
-                width={80}
-                src="/logo.png"
+                height={40}
+                width={40}
+                src="/yantu_logo.png"
                 alt="Logo"
               />
             </IwsLink>
