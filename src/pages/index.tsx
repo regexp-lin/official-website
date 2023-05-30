@@ -26,9 +26,7 @@ export default function Index() {
           <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
           <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
             <div className="text-center">
-              <h1 className="text-4xl lg:text-6xl font-bold text-white mb-4">
-                欢迎来到 言图智能创新
-              </h1>
+              <h1 className="text-4xl lg:text-6xl font-bold text-white mb-4">欢迎来到 幻住科技</h1>
               <p className="text-lg lg:text-xl text-white">
                 在这里，你可以构建属于自己领域的AI，属于自己品牌的AI。
               </p>
